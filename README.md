@@ -1,1 +1,1 @@
-minjeong.xyz
+https://autumnsky.github.io/CV/
