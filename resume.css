@@ -411,3 +411,21 @@ hr {
   font-size: 16px;
   font-family: "Nanum Gothic", sans-serif;
 }
+
+.profile-summary {
+  font-family: "Nanum Gothic", sans-serif;
+}
+
+.profile-summary h2 {
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.profile-summary ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.profile-summary ul li {
+  margin: 5px 0;
+}
