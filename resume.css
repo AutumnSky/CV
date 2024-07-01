@@ -246,6 +246,10 @@ main {
   letter-spacing: 0.8px;
 }
 
+.portfolio__homepage_link {
+  font-weight: 600;
+}
+
 hr {
   margin-bottom: 15px;
   width: 100%;
